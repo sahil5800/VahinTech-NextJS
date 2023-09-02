@@ -32,7 +32,7 @@ const Footer = () => {
 
         <FooterList
           title="Products"
-          list={["BNC & DC", "Coaxial cables", "Networking Tools", "Fibers"]}
+          list={["BNC & DC", "Coaxial cables", "Networking Tools", "Fibers", "Networking Cables", "Survillance Related accessories"]}
         />
         <FooterList
           title="Features"
@@ -41,11 +41,11 @@ const Footer = () => {
         <FooterList
           title="Other Services"
           list={[
-            "Web Hosting",
-            "Creative Design",
-            "SEO Management",
-            "Authentication",
-            "Advanced Coding",
+            "CCtv Installation",
+            "Laptop Accessories",
+            "Desktop Accessories",
+            "HP Authorised Service Center",
+            "Survilance Products",
           ]}
         />
       </div>
