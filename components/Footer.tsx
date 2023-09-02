@@ -53,13 +53,13 @@ const Footer = () => {
         <div>
           <p className="text-xl font-medium text-yellow-600">Social Media</p>
           <div className="flex items-center gap-4 mt-4">
-            <BsFacebook className="text-lg text-gray-200 hover:text-yellow-600 cursor-pointer" />
-            <BsInstagram className="text-lg text-gray-200 hover:text-yellow-600 cursor-pointer" />
-            <BsYoutube className="text-lg text-gray-200 hover:text-yellow-600 cursor-pointer" />
-            <AiOutlineLinkedin className="text-lg text-gray-200 hover:text-yellow-600 cursor-pointer" />
             <a href = "mailto: rajsahil1228@gmail.com">
             <MdEmail className="text-lg text-gray-200 hover:text-yellow-600 cursor-pointer" />
             </a>
+            <BsFacebook className="text-lg text-gray-200 hover:text-yellow-600 cursor-pointer" />
+            <BsInstagram className="text-lg text-gray-200 hover:text-yellow-600 cursor-pointer" />
+            <AiOutlineLinkedin className="text-lg text-gray-200 hover:text-yellow-600 cursor-pointer" />
+            <BsYoutube className="text-lg text-gray-200 hover:text-yellow-600 cursor-pointer" />
           </div>
         </div>
         <p className="hidden mdl:flex items-center gap-.5 text-sm text-yellow-600">
