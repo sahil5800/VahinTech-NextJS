@@ -1,6 +1,3 @@
-"engines": {
-    "node": "16.x"
-  },
 {
   "name": "task",
   "version": "0.1.0",
